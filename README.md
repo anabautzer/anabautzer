@@ -11,7 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FIAP, vinda da área da E
 
 ### 📌 Projetos em destaque
 
-- **[Date Planner](https://github.com/anabautzer/date-planner)** · [ver online](https://date-planner-steel.vercel.app)
+- **[Date Planner](https://github.com/anabautzer/date-planner)** · [ver demo online](https://date-planner-demo.vercel.app/)
   Convite interativo para planejar um encontro a dois: o anfitrião monta as opções (agenda, lugares, filmes em cartaz, comida e atividades), o convidado responde pelo link e o app mostra os "matches" entre as preferências dos dois.
   `Next.js` `TypeScript` `Tailwind CSS` `Upstash Redis` `APIs TMDB e Google Places`
 
